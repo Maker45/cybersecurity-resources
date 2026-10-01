@@ -1,7 +1,5 @@
 # Cybersecurity Bookmarks
 
-Extracted from `bookmarks_10_1_26.html`.
-
 ## CyberPatriot
 
 - [CyberPatriot (Official Site)](https://www.uscyberpatriot.org/)
