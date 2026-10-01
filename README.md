@@ -1,5 +1,7 @@
 # Cybersecurity Bookmarks
 
+Extracted from `bookmarks_10_1_26.html`.
+
 ## CyberPatriot
 
 - [CyberPatriot (Official Site)](https://www.uscyberpatriot.org/)
@@ -11,6 +13,7 @@
 - [picoCTF - Gym Playlists](https://play.picoctf.org/playlists)
 - [Cyber Skyline](https://cyberskyline.com/hosted_events)
 - [Cyber Skyline Trove](https://trove.cyberskyline.com/)
+- [Cyber Skyline Live Tutorials (YouTube, 55 videos)](https://www.youtube.com/playlist?list=PLHZvOZy0tYQvQ5l7ppnpQqeoGzKPgdi6t)
 - [SoCal Cyber Cup Challenge | Cyber Skyline](https://cyberskyline.com/events/socalccc)
 - [Inland Empire California Mayors Cyber Cup - IEGO](https://iegocollab.com/mayors-cyber-cup/)
 
